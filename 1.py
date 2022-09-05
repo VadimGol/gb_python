@@ -60,3 +60,4 @@ while a < b:
     counter_days += 1
     a *= 1.1
 print(f'Нужно {counter_days} дней')
+#Hello
